@@ -1,12 +1,12 @@
 Summary:	Compiz option code generator
 Summary(pl.UTF-8):	Generator kodu opcji Compiza
 Name:		compiz-bcop
-Version:	0.6.0
+Version:	0.7.2
 Release:	1
 License:	GPL v2+
 Group:		Development/Tools
 Source0:	http://releases.compiz-fusion.org/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	fa5173efb8927ffa052d59b540bae67d
+# Source0-md5:	3824697fbbf399a817933b9141cfdba3
 URL:		http://forum.compiz-fusion.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake >= 1:1.9
